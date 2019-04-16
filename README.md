@@ -2,19 +2,20 @@
 
 ### Introduction
 
-NanoSwe is a pipeline built for the pilot study that involves data analyses of whole-genomes sequenced on ONT's PromethION alpha-beta device.
+NanoSwe is a pipeline built for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device.
 
 ### Pipeline
 
 |Purpose |Program(s)|
 |---------|-----|
-|Basecalling| Guppy version 1.8.1 |
 |Quality Control| [NanoPlot for QC](https://github.com/wdecoster/NanoPlot), and [NanoComp](https://github.com/wdecoster/nanocomp) for nanopore data comparison |
 |Mapping to the reference|[Minimap2-2.14](https://github.com/lh3/minimap2)|
 |Sorting, Indexing, and calculating statistics | [Samtools v1.9](https://github.com/samtools/samtools)|
 |Variant Calling|[Sniffles v1.0.10](https://github.com/fritzsedlazeck/Sniffles)|
 |Data Extraction|[bcftools v1.9](https://samtools.github.io/bcftools/bcftools.html)|
 |Finding intersection in variant callsets| [bedtools v2.27.1](https://github.com/arq5x/bedtools2)|
+| Variant Annotation| Variant Effector Predictor version|
+| Homology Detection| Blast version 2. |
 |Data Visualisation|[ggplot2](https://ggplot2.tidyverse.org/) and [cyvcf2](https://github.com/brentp/cyvcf2)*. See *nf_promethION_vc.Rmd* for information on libraries/packages used for data visualisation.|
 
 For cyvcf2, make sure latest version of pip, matplotlib, and Cython are installed.
@@ -72,4 +73,4 @@ For cyvcf2, make sure latest version of pip, matplotlib, and Cython are installe
 ```
 
 ## Citation
-If you plan to use it as a guide and would like to acknowledge, simply mention author's name and a link to Github repository.
+If you plan to use it as a guide and would like to acknowledge, simply mention a link to Github repository https://github.com/Nazeeefa/NanoSwe.
