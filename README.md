@@ -73,4 +73,4 @@ Example tree structure of data organisation
 ```
 
 ## Citation
-If you plan to use it as a guide and would like to acknowledge, simply mention a link to Github repository https://github.com/Nazeeefa/NanoSwe.
+If you plan to use it as a guide and would like to acknowledge, simply mention the link https://github.com/Nazeeefa/NanoSwe.
