@@ -1,8 +1,8 @@
-## Count of SVs per chromosome
+## Count of variants per chromosome
 
-
-# Specifying full file path to read the data
+# Specifying full path
 vcf1 <- read.table("/full/path/file.csv", sep=";", header = TRUE)
+
 vcf1$CHROM <- factor(vcf1$CHROM, levels = paste("chr",c(seq(1,22), "X","Y"), sep = ""))
 
 library(ggplot2)
