@@ -2,7 +2,7 @@
 
 ### Introduction
 
-NanoSwe is a pipeline built for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device.
+NanoSwe is analysis toolkit for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device.
 
 ### Pipeline
 
@@ -21,7 +21,7 @@ NanoSwe is a pipeline built for experiments that involve data analyses of whole-
 For cyvcf2, make sure latest version of pip, matplotlib, and Cython are installed.
 
 #### Nanopore Data: Post-Sequencing 
-
+Example tree structure of nanopore sequencing output files
 ```
 ├── /basecalled/<sample>/<flowcell>/
 │   ├── fastq_0.fastq
@@ -44,7 +44,7 @@ For cyvcf2, make sure latest version of pip, matplotlib, and Cython are installe
 (2) fast5 file named e.g. ```PCT0001_YYYYMMDD_0001A20B002222C_{flowcell}_sequencing_run_{library_full_name}__read_{number}_ch_{number}_strand.fast5)```
 
 #### Nanopore Data: Post-Tidying 
-
+Example tree structure of data organisation
 ```
 ├── /basecalled/<sample>/<flowcell>/
 │   ├── FASTQ_files
