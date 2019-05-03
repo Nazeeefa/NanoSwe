@@ -8,7 +8,7 @@ NanoSwe is analysis toolkit for experiments that involve data analyses of whole-
 
 |Purpose |Program(s)|
 |---------|-----|
-|Quality Control| [NanoPlot for QC](https://github.com/wdecoster/NanoPlot), and [NanoComp](https://github.com/wdecoster/nanocomp) for nanopore data comparison |
+|Quality Control| [NanoPlot for QC](https://github.com/wdecoster/NanoPlot) & [NanoComp](https://github.com/wdecoster/nanocomp)|
 |Mapping to the reference|[Minimap2-2.14](https://github.com/lh3/minimap2)|
 |Sorting, Indexing, and calculating statistics | [Samtools v1.9](https://github.com/samtools/samtools)|
 |Variant Calling|[Sniffles v1.0.10](https://github.com/fritzsedlazeck/Sniffles)|
