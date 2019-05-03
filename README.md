@@ -15,7 +15,7 @@ NanoSwe is analysis toolkit for experiments that involve data analyses of whole-
 |Data Extraction|[bcftools v1.9](https://samtools.github.io/bcftools/bcftools.html)|
 |Finding intersection in variant callsets| [bedtools v2.27.1](https://github.com/arq5x/bedtools2)|
 |Removing control DNA sequences | [NanoLyse](https://github.com/wdecoster/nanolyse)|
-| Homology Detection| Blast v2.7.1+ |
+| Homology Detection| [Blast v2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) |
 |Data Visualisation|[ggplot2](https://ggplot2.tidyverse.org/) and [cyvcf2](https://github.com/brentp/cyvcf2)*. See *nf_promethION_vc.Rmd* for information on libraries/packages used for data visualisation.|
 
 For cyvcf2, make sure latest version of pip, matplotlib, and Cython are installed.
