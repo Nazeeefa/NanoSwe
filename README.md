@@ -2,7 +2,7 @@
 
 ### Introduction
 
-NanoSwe is analysis toolkit for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device.
+NanoSwe is analysis toolkit for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device. Please feel free to contribute by submitting pull request.
 
 ### Pipeline
 
@@ -16,7 +16,7 @@ NanoSwe is analysis toolkit for experiments that involve data analyses of whole-
 |Finding intersection in variant callsets| [bedtools v2.27.1](https://github.com/arq5x/bedtools2)|
 |Removing control DNA sequences | [NanoLyse](https://github.com/wdecoster/nanolyse)|
 | Homology Detection| [Blast v2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) |
-|Data Visualisation| R version in R studio version. See the *scripts* directory for information on libraries/packages used for data visualisation.|
+|Data Visualisation| R version 3.5.3. See the *scripts* directory for information on libraries/packages used for data visualisation.|
 
 #### Nanopore Data: Post-Sequencing 
 Example tree structure of nanopore sequencing output files
