@@ -12,10 +12,10 @@ NanoSwe is analysis toolkit for experiments that involve data analyses of whole-
 |Mapping to the reference|[Minimap2-2.14](https://github.com/lh3/minimap2)|
 |Sorting, Indexing, and calculating statistics | [Samtools v1.9](https://github.com/samtools/samtools)|
 |Variant Calling|[Sniffles v1.0.10](https://github.com/fritzsedlazeck/Sniffles)|
-|Data Extraction|[bcftools v1.9](https://samtools.github.io/bcftools/bcftools.html)|
+|Data Extraction (VCF Files only)|[bcftools v1.9](https://samtools.github.io/bcftools/bcftools.html)|
 |Finding intersection in variant callsets| [bedtools v2.27.1](https://github.com/arq5x/bedtools2)|
 |Removing control DNA sequences | [NanoLyse](https://github.com/wdecoster/nanolyse)|
-| Homology Detection| [Blast v2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) |
+|Homology Detection| [Blast v2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) |
 |Data Visualisation| R version 3.5.3. See the *scripts* directory for information on libraries/packages used for data visualisation.|
 
 #### Nanopore Data: Post-Sequencing 
