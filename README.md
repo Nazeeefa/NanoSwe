@@ -2,7 +2,7 @@
 
 ### Introduction
 
-NanoSwe is analysis toolkit for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device. Please feel free to contribute by submitting pull request.
+NanoSwe is a preliminary analysis toolkit for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device. Please feel free to contribute by submitting pull request.
 
 ### Pipeline
 
