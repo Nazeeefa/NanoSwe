@@ -2,9 +2,9 @@
 
 ### Introduction
 
-NanoSwe is a preliminary analysis toolkit for experiments that involve data analyses of whole-genomes sequenced on ONT's PromethION device.
+NanoSwe is a preliminary analysis toolkit for experiments that involve data analyses of whole genomes sequenced on ONT's PromethION device.
 
-### Pipeline
+### ToolKit
 
 |Purpose |Program(s)|
 |---------|-----|
@@ -70,6 +70,12 @@ Example tree structure of data organisation
 │       └── /logs/
 └── /bin/
 ```
+## Data Source(s)
+- [SweGen: a whole-genome data resource of genetic variability in a cross-section of the Swedish population](https://www.nature.com/articles/ejhg2017130)
+- [*De novo* Assembly of Two Swedish Genomes Reveals Missing Segments from the Human GRCh38 Reference and Improves Variant Calling of Population-Scale Sequencing Data.](https://www.mdpi.com/2073-4425/9/10/486)
+
+## Recommended Reading(s)
+- [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
 
 ## Citation
 If you plan to use it as a guide and would like to acknowledge, simply mention the link https://github.com/Nazeeefa/NanoSwe.
