@@ -14,6 +14,7 @@ NanoSwe is a preliminary analysis toolkit for experiments that involve data anal
 |Variant Calling|[Sniffles v1.0.10](https://github.com/fritzsedlazeck/Sniffles)|
 |Data Extraction (VCF Files only)|[bcftools v1.9](https://samtools.github.io/bcftools/bcftools.html)|
 |Finding intersection in genomic regions| [bedtools v2.27.1](https://github.com/arq5x/bedtools2)|
+|Evaluation of SVs | [Survivor 1.0.7](https://github.com/fritzsedlazeck/SURVIVOR)|
 |Removing control DNA sequences | [NanoLyse](https://github.com/wdecoster/nanolyse)|
 |Trimming Short Reads | [BBMap/BBTools](https://github.com/BioInfoTools/BBMap)
 |Homology Detection| [Blast v2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) |
@@ -76,6 +77,7 @@ Example tree structure of data organisation
 
 ## Recommended Reading(s)
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
+- [Structural variants identified by Oxford Nanopore PromethION sequencing of the human genome](https://genome.cshlp.org/content/early/2019/06/26/gr.244939.118.abstract)
 
 ## Citation
 If you plan to use it as a guide and would like to acknowledge, simply mention the link https://github.com/Nazeeefa/NanoSwe.
