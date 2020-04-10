@@ -6,7 +6,7 @@ NanoSwe is a preliminary analysis toolkit for experiments that involve data anal
 
 ### ToolKit
 
-|Purpose |Program(s)|
+|Purpose |Programs|
 |---------|-----|
 |Quality Control| [NanoPlot for QC](https://github.com/wdecoster/NanoPlot) & [NanoComp](https://github.com/wdecoster/nanocomp)|
 |Mapping to the reference|[Minimap2-2.14](https://github.com/lh3/minimap2)|
