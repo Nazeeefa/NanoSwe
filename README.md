@@ -71,14 +71,13 @@ Example tree structure of data organisation
 │       └── /logs/
 └── /bin/
 ```
-## Data Source(s)
+## Data Sources
 - [SweGen: a whole-genome data resource of genetic variability in a cross-section of the Swedish population](https://www.nature.com/articles/ejhg2017130)
 - [*De novo* Assembly of Two Swedish Genomes Reveals Missing Segments from the Human GRCh38 Reference and Improves Variant Calling of Population-Scale Sequencing Data.](https://www.mdpi.com/2073-4425/9/10/486)
 
-## Recommended Reading(s)
+## Recommended Readings
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
 - [Structural variants identified by Oxford Nanopore PromethION sequencing of the human genome](https://genome.cshlp.org/content/early/2019/06/26/gr.244939.118.abstract)
-- [Chromosome-scale assembly comparison of the Korean Reference Genome KOREF from PromethION and PacBio with Hi-C mapping information](https://www.biorxiv.org/content/10.1101/674804v3)
 
 ## Citation
 If you plan to use it as a guide and would like to acknowledge, simply and kindly mention the link https://github.com/Nazeeefa/NanoSwe.
