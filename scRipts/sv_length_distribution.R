@@ -14,7 +14,7 @@ vcfmax <- subset(vcf_indel,LEN<=1000)
 plot <- ggplot(vcfmax, aes(x = LEN, fill=SV)) + geom_histogram(binwidth=20) +
   scale_x_continuous(breaks = seq(1000, 10000, 1000), limits=c(0, 10000), expand = c(0, 0)) +
   scale_y_continuous(breaks = seq(0,100, 25), limits=c(0, 100), expand = expand_scale(mult = c(0, .1))) +
-  labs(title = "Main Title Goes Here", y = "Count", x = "Length", fill = "Type") +
+  labs(title = "Length Profiles of SVs", y = "SV Count", x = "SV Length", fill = "SV Type") +
   
 # Free scales make it easier to see patterns within each panel  
   facet_wrap(~Sample, scales='free') +
