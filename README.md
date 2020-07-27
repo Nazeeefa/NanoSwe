@@ -1,4 +1,4 @@
-## NanoSwe: Analysing PromethION Sequencing Data of Swedish Genomes
+## NanoSwe: Analysing PromethION Sequencing Data of Swedish Genomes 🇸🇪
 
 ### Introduction
 
