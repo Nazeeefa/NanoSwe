@@ -74,6 +74,7 @@ Example tree structure of data organisation
 ## Data Sources
 - [SweGen: a whole-genome data resource of genetic variability in a cross-section of the Swedish population](https://www.nature.com/articles/ejhg2017130)
 - [*De novo* Assembly of Two Swedish Genomes Reveals Missing Segments from the Human GRCh38 Reference and Improves Variant Calling of Population-Scale Sequencing Data.](https://www.mdpi.com/2073-4425/9/10/486)
+- [Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z)
 
 ## Recommended Readings
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
