@@ -11,6 +11,8 @@ NanoSwe is a preliminary analysis toolkit for experiments that involve data anal
 |Quality Control| [NanoPlot for QC](https://github.com/wdecoster/NanoPlot) & [NanoComp](https://github.com/wdecoster/nanocomp)|
 |Mapping to the reference|[Minimap2-2.14](https://github.com/lh3/minimap2)|
 |Sorting, Indexing, and calculating statistics | [Samtools v1.9](https://github.com/samtools/samtools)|
+|Subsampling | [Sambamba v0.7.1](https://github.com/biod/sambamba)|
+| BAM QC Statistics | [Qualimap v2.2.1](https://github.com/scchess/Qualimap)|
 |Variant Calling|[Sniffles v1.0.10](https://github.com/fritzsedlazeck/Sniffles)|
 |Data Extraction (VCF Files only)|[bcftools v1.9](https://samtools.github.io/bcftools/bcftools.html)|
 |Finding intersection in genomic regions| [Survivor 1.0.7](https://github.com/fritzsedlazeck/SURVIVOR) |
