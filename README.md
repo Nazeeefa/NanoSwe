@@ -13,7 +13,7 @@ NanoSwe is a preliminary analysis toolkit for experiments that involve data anal
 |Sorting, Indexing, and calculating statistics | [Samtools 1.9](https://github.com/samtools/samtools)|
 |Subsampling | [Sambamba 0.7.1](https://github.com/biod/sambamba)|
 | BAM QC Statistics | [Qualimap 2.2.1](https://github.com/scchess/Qualimap)|
-|Variant Calling|[Sniffles 1.0.10](https://github.com/fritzsedlazeck/Sniffles)|
+|Structural Variant Calling|[Sniffles 1.0.10](https://github.com/fritzsedlazeck/Sniffles)|
 |Data Extraction (VCF Files only)|[bcftools 1.9](https://samtools.github.io/bcftools/bcftools.html)|
 |Finding intersection in genomic regions| [Survivor 1.0.7](https://github.com/fritzsedlazeck/SURVIVOR) |
 |Evaluation of SVs | Survivor 1.0.7 and [surpyvor: 0.5.0](https://github.com/wdecoster/surpyvor)|
