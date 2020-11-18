@@ -1,3 +1,6 @@
+# Plot for read length distribution
+# Data is obtained from FASTQ files
+
 library(ggplot2)
 library(ggthemes)
 
