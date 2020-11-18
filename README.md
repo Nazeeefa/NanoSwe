@@ -76,7 +76,7 @@ Example tree structure of data organisation
 
 ### Sub-folder content
 
-`./scRipts` - R scripts created for visulisation of long read data
+`./scRipts` - R scripts created for visulisation of long read data. <br>
 `commands.md` - Tool commands used for different analyses.
 
 ## Data Sources
