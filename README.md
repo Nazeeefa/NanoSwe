@@ -2,9 +2,9 @@
 
 ### Introduction
 
-NanoSwe is a preliminary analysis toolkit for experiments that involve data analyses of whole genomes sequenced on ONT's PromethION device. It has also been used for other long-read SweGen data (e.g. PacBio).
+NanoSwe is a preliminary analysis toolkit for experiments that involve sequencing data from ONT's PromethION device. It has also been used for other long-read SweGen data (e.g. PacBio).
 
-### ToolKit
+### Bioinformatics ToolKit
 
 |Purpose |Programs|
 |---------|-----|
@@ -88,5 +88,8 @@ Example tree structure of data organisation
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
 - [Structural variants identified by Oxford Nanopore PromethION sequencing of the human genome](https://genome.cshlp.org/content/early/2019/06/26/gr.244939.118.abstract)
 
-## Citation
+## Repository Citation
 If you plan to use it as a guide and would like to acknowledge, simply and kindly mention the link https://github.com/Nazeeefa/NanoSwe.
+
+## Publication Citation
+You can cite [the thesis](https://lup.lub.lu.se/student-papers/search/publication/8978951) and/or publication.
