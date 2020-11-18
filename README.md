@@ -76,7 +76,8 @@ Example tree structure of data organisation
 
 ### Sub-folder content
 
-`./scRipts` - R scripts created for visulisation of variant calling results
+`./scRipts` - R scripts created for visulisation of long read data
+`commands.md` - Tool commands used for different analyses.
 
 ## Data Sources
 - [SweGen: a whole-genome data resource of genetic variability in a cross-section of the Swedish population](https://www.nature.com/articles/ejhg2017130)
