@@ -16,3 +16,8 @@ qualimap bamqc -bam swedish_genome.bam -nw 400 -hm 3
 ```
 sambamba view -h -t 10 -s 0.5 -f bam --subsampling-seed=16 file.bam -o subsampled_file.bam 
 ```
+#### Structual Variant (SV) Calling: Sniffles
+Following will extract variants of >=50bp length
+```
+sniffles --report_seq --report_BND -l 50 --genotype --mapped_reads file.bam --vcf output_file.vcf 2> sniffles_run.log
+```
