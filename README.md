@@ -92,4 +92,4 @@ Example tree structure of data organisation
 If you plan to use it as a guide and would like to acknowledge, simply and kindly mention the link https://github.com/Nazeeefa/NanoSwe.
 
 ## Publication Citation
-You can cite [the thesis](https://lup.lub.lu.se/student-papers/search/publication/8978951) and/or publication.
+You can cite [the thesis](https://lup.lub.lu.se/student-papers/search/publication/8978951) and/or [publication](https://doi.org/10.3390/genes11121444).
