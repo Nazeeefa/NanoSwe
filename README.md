@@ -96,4 +96,10 @@ Example tree structure of data organisation
 - [Long-Read Data Analysis Tutorial](https://timkahlke.github.io/LongRead_tutorials/)
 
 ## Citation
-If you plan to use repository as a guide, simply and kindly mention the link https://github.com/Nazeeefa/NanoSwe for acknowledgment. Also, you can cite our [publication](https://doi.org/10.3390/genes11121444). Thank you.
+If you plan to use repository as a guide, simply and kindly mention the link https://github.com/Nazeeefa/NanoSwe for acknowledgment. Also, you can cite our [publication](https://doi.org/10.3390/genes11121444) as shown below. Thank you.
+
+> #### AMA Style
+> Fatima N, Petri A, Gyllensten U, Feuk L, Ameur A. Evaluation of Single-Molecule Sequencing Technologies for Structural Variant Detection in Two Swedish Human Genomes. Genes. 2020; 11(12):1444.
+
+> #### Chicago Style
+> Fatima, Nazeefa; Petri, Anna; Gyllensten, Ulf; Feuk, Lars; Ameur, Adam. 2020. "Evaluation of Single-Molecule Sequencing Technologies for Structural Variant Detection in Two Swedish Human Genomes." Genes 11, no. 12: 1444.
