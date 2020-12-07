@@ -91,7 +91,9 @@ Example tree structure of data organisation
 - [Evaluating nanopore sequencing data processing pipelines for structural variation identification](https://pubmed.ncbi.nlm.nih.gov/31727126/)
 
 ## Recommended Pipeline(s)
-- 
+- [nfcore/nanoseq](https://github.com/nf-core/nanoseq)
+- [Nano-snakemake](https://github.com/wdecoster/nano-snakemake)
+- [Long-Read Data Analysis Tutorial](https://timkahlke.github.io/LongRead_tutorials/)
 
 ## Citation
 If you plan to use repository as a guide, simply and kindly mention the link https://github.com/Nazeeefa/NanoSwe for acknowledgment. Also, you can cite our [publication](https://doi.org/10.3390/genes11121444). Thank you.
