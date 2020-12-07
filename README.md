@@ -88,6 +88,10 @@ Example tree structure of data organisation
 - [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
 - [Structural variants identified by Oxford Nanopore PromethION sequencing of the human genome](https://genome.cshlp.org/content/early/2019/06/26/gr.244939.118.abstract)
 - [The thesis](https://lup.lub.lu.se/student-papers/search/publication/8978951)
+- [Evaluating nanopore sequencing data processing pipelines for structural variation identification](https://pubmed.ncbi.nlm.nih.gov/31727126/)
+
+## Recommended Pipeline(s)
+- 
 
 ## Citation
 If you plan to use repository as a guide, simply and kindly mention the link https://github.com/Nazeeefa/NanoSwe for acknowledgment. Also, you can cite our [publication](https://doi.org/10.3390/genes11121444). Thank you.
