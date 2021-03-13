@@ -6,9 +6,9 @@ NanoSwe is a preliminary analysis toolkit for experiments that involve sequencin
 
 ### Bioinformatics ToolKit
 
-|Purpose |Programs|
-|---------|-----|
-|Quality Control| [NanoPlot for QC](https://github.com/wdecoster/NanoPlot) & [NanoComp](https://github.com/wdecoster/nanocomp)|
+|Purpose |Program|
+|-------------|-----|
+|Quality Control| [NanoPlot for QC](https://github.com/wdecoster/NanoPlot) and [NanoComp](https://github.com/wdecoster/nanocomp)|
 |Mapping to the reference|[Minimap2-2.14](https://github.com/lh3/minimap2)|
 |Sorting, Indexing, and calculating statistics | [Samtools 1.9](https://github.com/samtools/samtools)|
 |Subsampling | [Sambamba 0.7.1](https://github.com/biod/sambamba)|
