@@ -20,7 +20,7 @@ NanoSwe is a preliminary analysis toolkit for experiments that involve sequencin
 |Removing control DNA sequences | [NanoLyse](https://github.com/wdecoster/nanolyse)|
 |Trimming Short Reads | [BBMap/BBTools](https://github.com/BioInfoTools/BBMap)
 |Homology Detection| [Blast 2.7.1+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) |
-|Data Visualisation| R version 3.5.3. See the *scripts* directory for information on libraries/packages used for data visualisation.|
+|Data Visualisation| R version 3.5.3. See the [*scripts* directory](https://github.com/Nazeeefa/NanoSwe/tree/master/scRipts) for information on libraries/packages used.|
 
 #### Nanopore Data: Post-Sequencing 
 Example tree structure of nanopore sequencing output files
