@@ -23,7 +23,7 @@ NanoSwe is a preliminary analysis toolkit for experiments that involve sequencin
 |Data Visualisation| R version 3.5.3. See the [*scripts* directory](https://github.com/Nazeeefa/NanoSwe/tree/master/scRipts) for information on libraries/packages used.|
 
 #### Nanopore Data: Post-Sequencing 
-Example tree structure of nanopore sequencing outfiles
+Example tree structure of nanopore sequencing files
 ```
 ├── /basecalled/<sample>/<flowcell>/
 │   ├── fastq_0.fastq
